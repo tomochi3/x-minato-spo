@@ -1,0 +1,10 @@
+# すべてのファイルを無視
+*
+
+# index.htmlとimagesフォルダ内のファイルは除外
+!index.html
+!images/*
+
+# .gitignoreファイル自体も除外
+!.gitignore
+
