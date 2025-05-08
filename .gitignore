@@ -3,7 +3,8 @@
 
 # index.htmlとimagesフォルダ内のファイルは除外
 !index.html
-!images/*
+!images/
+!images/**
 
 # .gitignoreファイル自体も除外
 !.gitignore
